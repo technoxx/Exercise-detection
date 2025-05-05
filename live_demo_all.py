@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-import SquatPosture as sp
+import ShoulderPress as sp
 import pandas as pd
 import numpy as np
 import tensorflow as tf
